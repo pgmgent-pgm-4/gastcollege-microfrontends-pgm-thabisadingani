@@ -1,0 +1,13 @@
+footer{
+  background-color: rgb(20, 18, 18);
+  color: #ffffff;
+  text-align: center;
+  padding:2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+a{
+  color: rgb(10, 177, 10);
+  text-decoration: underline;
+}
